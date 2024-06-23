@@ -1,2 +1,2 @@
 # Fuel-Cell-Cooling
-This problem involves the design of an appropriate cooling system for a hydrogen fuel cell.
+This is a case study to design an appropriate cooling system for a hydrogen fuel cell.
